@@ -1,0 +1,16 @@
+{
+    "name": "kellenmace/my-plugin",
+    "description": "My plugin",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Kellen Mace",
+            "email": "kellen.mace@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "lucatume/wp-browser": "^2.2"
+    }
+}
